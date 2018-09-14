@@ -1,3 +1,7 @@
+// dumb components
+let BoardSquare = () =>
+    <div className='board-square'></div>
+
 // smart components
 class Board extends React.Component {
     render() {
